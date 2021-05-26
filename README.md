@@ -16,11 +16,11 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tushar-saxena-864115169/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing](https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing](https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing)
 
 - ⚡ Fun fact **Always in Learning Phase and always ready to learn new technologies.**
 
-<h3 align="left">SOCIAL INFORMATION:</h3>
+<h3 align="left">📫SOCIAL INFORMATION:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stushar12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tushar-saxena-864115169/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tusharsaxena_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.linkedin.com/in/tushar-saxena-864115169/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/ninjapro/practice/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Tushar_02468)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/stushar345/)  
 
