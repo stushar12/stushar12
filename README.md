@@ -34,3 +34,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stushar12&show_icons=true&locale=en" alt="stushar12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stushar12&" alt="stushar12" /></p>
+
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stushar12)  
