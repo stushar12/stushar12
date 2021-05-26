@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with **Flask and Heroku (Deployment part of models)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stushar12](https://github.com/stushar12)
+- 👨‍💻 **All of my projects are available at** [https://github.com/stushar12](https://github.com/stushar12)
 
 - 💬 Ask me about **Deep Learning | Machine Learning | DevOps**
 
 - 📫 How to reach me **https://www.linkedin.com/in/tushar-saxena-864115169/**
 
-- 📄 My Resume [https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing](https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing)
+- 📄 **My Resume** **[https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing](https://drive.google.com/file/d/14SId1zKAqdiBkvRjFOM20bRfx0ows22M/view?usp=sharing)**
 
 - ⚡ Fun fact **Always in Learning Phase and always ready to learn new technologies.**
 
