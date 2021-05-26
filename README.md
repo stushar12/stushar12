@@ -32,6 +32,7 @@
 <h3 align="left">GITHUB BADGES:</h3>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stushar12)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stushar12&show_icons=true&locale=en" alt="stushar12" /></p>
