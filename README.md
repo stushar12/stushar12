@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Machine Learning | Machine Learning | DevOps | DSA**
 
-- 🤝 I’m looking for help with **Flask and Heroku (Deployment part of models)**
-
 - 👨‍💻 **All of my projects are available at** [https://github.com/stushar12](https://github.com/stushar12)
 
 - 💬 Ask me about **Deep Learning | Machine Learning | DevOps**
