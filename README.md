@@ -6,7 +6,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=stushar12&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-- 🌱 I’m currently learning **Machine Learning | Machine Learning | DevOps | DSA**
+- 🌱 I’m currently learning **Machine Learning | DevOps | DSA**
 
 - 👨‍💻 **All of my projects are available at** [https://github.com/stushar12](https://github.com/stushar12)
 
