@@ -2,20 +2,22 @@
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;"></a>
 
  I'm Tushar Saxena</h1>
-<h2 align="center">👋 Welcome to my Github account 👋 </h2>
+<h2 align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;"></a>
+Welcome to my Github account <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;"></a>
+</h2>
 <h3 align="center">Eat->Sleep->Learn->Code->Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stushar12&label=Profile%20views&color=0e75b6&style=flat" alt="stushar12" /> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=stushar12&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-- 🌱 I’m currently learning **Machine Learning | DevOps | DSA**
+- 🌱 I’m currently learning **Machine Learning | DevOps | Full Stack Development | DSA**
 
 - 👨‍💻 **All of my projects are available at** [https://github.com/stushar12](https://github.com/stushar12)
 
-- 💬 Ask me about **Deep Learning | Machine Learning | DevOps**
+- 💬 Ask me about **Deep Learning | Machine Learning | DevOps | Full Stack Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tushar-saxena-864115169/**
+- 📫 How to reach me **https://www.linkedin.com/in/tushar-saxena/**
 
 - ⚡**Always in Learning Phase and always ready to learn new technologies.**
 
