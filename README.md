@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tushar Saxena</h1>
+<h1 align="center">Hi
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;"></a>
+
+ I'm Tushar Saxena</h1>
 <h2 align="center">👋 Welcome to my Github account 👋 </h2>
 <h3 align="center">Eat->Sleep->Learn->Code->Repeat</h3>
 
